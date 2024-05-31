@@ -71,5 +71,5 @@ Click on this link [localhost](http://localhost:3000/) to view the application
 
 ## Screenshots
 
-![App Screenshot](https://asset.cloudinary.com/dlyaswanth/e42ba93dca9dda159a830f91f88c9339?text=App+Screenshot+Here)
+![App Screenshot](https://res.cloudinary.com/dlyaswanth/image/upload/v1717177700/BlockBook.png?text=App+Screenshot+Here)
 
